@@ -1,4 +1,4 @@
-#Tasky - Gestor de Tareas
+Tasky - Gestor de Tareas
 
 Tasky es una aplicación web moderna y eficiente creada para gestionar tareas de manera intuitiva. Ideal para individuos y equipos que buscan una herramienta práctica para organizar su flujo de trabajo y mantener el control de sus pendientes. Con Tasky, puedes crear, editar y organizar tareas de forma fácil y segura.
 
