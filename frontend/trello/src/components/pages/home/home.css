@@ -1,0 +1,6 @@
+body{
+    background-color: var(--backgoundColor);
+    font-family: "Montserrat", sans-serif;
+    color: var(--colorText);
+    
+}

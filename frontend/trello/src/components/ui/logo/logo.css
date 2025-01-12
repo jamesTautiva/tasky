@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+.logo{
+
+    .link{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--colorTitle);
+        background-color: var(--backgroundColor);
+
+        .logotype{
+            width: 25px;
+            height: 25px;
+            background-color: var(--colorPrimary);
+            margin-right: 15px;
+            transform: rotate(50deg);
+        }
+    
+        h1{
+            color: var(--colorTitle);
+            font-family: "DM Sans", sans-serif;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            line-height: 1;
+            text-transform: uppercase;
+            transition: color 0.3s ease;
+            font-size: 2rem;
+            &:hover{
+                color: var(--colorPrimary);
+            }
+    
+        }
+    }
+    
+
+}
+
+
+
+

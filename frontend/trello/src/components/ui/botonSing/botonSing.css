@@ -1,0 +1,15 @@
+.login{
+    a{
+        font-family: "DM Sans", sans-serif;
+        background-color: var(--colorPrimary) ;
+        padding: 5px;
+        border-radius: 5px;
+        color: var(--backgoundColor);
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        &:hover{
+            background-color: var(--backgoundColor);
+            color: var(--colorPrimary);
+        }
+    }
+}

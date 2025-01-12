@@ -1,0 +1,13 @@
+.hi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--colorTitle);
+    
+    svg{
+        width: 40px;
+        height: 40px;
+        fill: var(--colorTitle);
+        margin: 5px;
+    }
+}
